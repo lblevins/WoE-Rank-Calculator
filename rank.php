@@ -52,12 +52,12 @@ $level3ArcherHealth = 42;
 
 
 if ($race == Human) {
-$level1ArcherStrength = 12;
-$level1ArcherHealth = 9;
-$level2ArcherStrength = 25;
-$level2ArcherHealth = 19;
-$level3ArcherStrength = 56;
-$level3ArcherHealth = 42;
+$level1ArcherStrength = 10;
+$level1ArcherHealth = 8;
+$level2ArcherStrength = 21;
+$level2ArcherHealth = 16;
+$level3ArcherStrength = 47;
+$level3ArcherHealth = 35;
 }
 
 
@@ -86,12 +86,12 @@ $level3CavalryHealth = 39;
 }
 
 if ($race == Human){
-$level1CavalryStrength = 11;
+$level1CavalryStrength = 12;
 $level1CavalryHealth = 9;
-$level2CavalryStrength = 23;
-$level2CavalryHealth = 18;
-$level3CavalryStrength = 48;
-$level3CavalryHealth = 39;
+$level2CavalryStrength = 24;
+$level2CavalryHealth = 19;
+$level3CavalryStrength = 50;
+$level3CavalryHealth = 41;
 }
 
 if ($race == Gnoll){
@@ -173,12 +173,12 @@ $level3FootHealth = 28;
 }
 
 if ($race == Human){ 
-$level1FootStrength = 6;
-$level1FootHealth = 6;
-$level2FootStrength = 12;
-$level2FootHealth = 13;
-$level3FootStrength = 28;
-$level3FootHealth = 28;
+$level1FootStrength = 9;
+$level1FootHealth = 9;
+$level2FootStrength = 18;
+$level2FootHealth = 19;
+$level3FootStrength = 40;
+$level3FootHealth = 40;
 }
 
 if ($race == Orc){ 
